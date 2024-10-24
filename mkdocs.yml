@@ -128,6 +128,7 @@ nav:
           - Post data to the server: "recipes/client-server/messaging-post.md"
           - Share code between the client and the server: "recipes/client-server/share-code.md"
           - Add support for Fable.Forms: "recipes/client-server/fable.forms.md"
+          - Add OAuth support: "recipes/client-server/add-oauth-entraid.md"
 
   - FAQs:
       - Moving from dev to prod: "faq/faq-build.md"
